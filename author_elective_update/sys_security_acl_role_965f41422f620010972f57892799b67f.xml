@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 04:29:57</sys_created_on>
+        <sys_id>965f41422f620010972f57892799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_359002_evans_ass_evans_assets.x_359002_evans_ass.evans_assets_user</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_security_acl display_value="x_359002_evans_ass_evans_assets">1a5f41422f620010972f57892799b67c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_965f41422f620010972f57892799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 04:29:57</sys_updated_on>
+        <sys_user_role display_value="x_359002_evans_ass.evans_assets_user" name="x_359002_evans_ass.evans_assets_user">0e5fcd022f620010972f57892799b672</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</application>
+        <file_path/>
+        <instance_id>fdda72bbdbc4fb4049eac59705961957</instance_id>
+        <instance_name>dev74962</instance_name>
+        <name>sys_security_acl_role_965f41422f620010972f57892799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-26 04:29:57</sys_created_on><sys_id>965f41422f620010972f57892799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_359002_evans_ass_evans_assets.x_359002_evans_ass.evans_assets_user</sys_name><sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package><sys_policy/><sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope><sys_security_acl display_value="x_359002_evans_ass_evans_assets">1a5f41422f620010972f57892799b67c</sys_security_acl><sys_update_name>sys_security_acl_role_965f41422f620010972f57892799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-26 04:29:57</sys_updated_on><sys_user_role display_value="x_359002_evans_ass.evans_assets_user" name="x_359002_evans_ass.evans_assets_user">0e5fcd022f620010972f57892799b672</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>126517353</payload_hash>
+        <record_name>x_359002_evans_ass_evans_assets.x_359002_evans_ass.evans_assets_user</record_name>
+        <reverted_from/>
+        <source>bedd89ce2f220010972f57892799b610</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 04:29:57</sys_created_on>
+        <sys_id>6e5f41422f620010972f57892799b681</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe01d0c5a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 04:29:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a65f4142ab620010ec58ebbcb5ab4d81</update_guid>
+        <update_guid_history>a65f4142ab620010ec58ebbcb5ab4d81:126517353</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_359002_evans_ass_evans_assets.x_359002_evans_ass.evans_assets_user">f2209d422f620010972f57892799b6ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 04:33:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>84e34c7bc2f9472c9262b1f73258ec44</sys_id>
+        <sys_metadata>965f41422f620010972f57892799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_359002_evans_ass_evans_assets.x_359002_evans_ass.evans_assets_user</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_parent display_value="">1a5f41422f620010972f57892799b67c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_965f41422f620010972f57892799b67f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_965f41422f620010972f57892799b67f">6e5f41422f620010972f57892799b681</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 04:33:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Evans Assets" max_length="40" name="x_359002_evans_ass_evans_assets" type="collection">
+        <element label="Assigned to" mandatory="true" max_length="32" name="assigned_to" reference="incident" type="reference"/>
+        <element label="Hardware Type" mandatory="true" max_length="32" name="hardware_type" reference="alm_asset" type="reference"/>
+        <element label="Manufacturer" mandatory="true" max_length="32" name="manufacturer" reference="cmdb_ci" type="reference"/>
+        <element label="Model" mandatory="true" max_length="32" name="model" reference="cmdb_ci" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Evans Asset Tag" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript: var cd= current.sys_created_on;&#13;&#10;var ed= current.warranty_expiration_date;&#13;&#10;var gDate=new GlideDateTime();&#13;&#10;gdt.addYears(4);&#13;&#10;gs.print(gdt.getdate());" label="Warranty Expiration Date " max_length="40" name="warranty_expiration_date" read_only="true" type="glide_date"/>
+        <index name="index">
+            <element name="hardware_type"/>
+        </index>
+        <index name="index2">
+            <element name="model"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index4">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index5">
+            <element name="manufacturer"/>
+        </index>
+    </element>
+</database>

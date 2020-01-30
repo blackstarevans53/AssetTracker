@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">e9c855b47420330078509adcc48c8787</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 04:29:58</sys_created_on>
+        <sys_id>e65f41422f620010972f57892799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 04:29:58</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
