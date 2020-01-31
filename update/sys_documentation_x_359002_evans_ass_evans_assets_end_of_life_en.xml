@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="warranty_expiration_date" label="Warranty Expiration Date " language="en" table="x_359002_evans_ass_evans_assets">
+    <sys_documentation element="end_of_life" label="End Of Life" language="en" table="x_359002_evans_ass_evans_assets">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>warranty_expiration_date</element>
+            <element>end_of_life</element>
             <help/>
             <hint/>
-            <label>Warranty Expiration Date </label>
+            <label>End Of Life</label>
             <language>en</language>
             <name>x_359002_evans_ass_evans_assets</name>
-            <plural>Warranty Expiration Date s</plural>
+            <plural>End Of Lifes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-26 05:23:19</sys_created_on>
-            <sys_id>149b914e2f620010972f57892799b63f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Warranty Expiration Date</sys_name>
+            <sys_created_on>2020-01-31 18:44:33</sys_created_on>
+            <sys_id>a9e20a3f2fae0010972f57892799b664</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>End Of Life</sys_name>
             <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
-            <sys_update_name>sys_documentation_x_359002_evans_ass_evans_assets_warranty_expiration_date_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_359002_evans_ass_evans_assets_end_of_life_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-26 05:23:19</sys_updated_on>
+            <sys_updated_on>2020-01-31 18:46:09</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

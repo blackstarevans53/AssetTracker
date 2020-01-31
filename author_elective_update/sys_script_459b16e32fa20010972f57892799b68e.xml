@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_359002_evans_ass_evans_assets</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Warranty</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+var gdt = new GlideDateTime();
+	//Adding 2yrs to the date asset was created
+	gdt.addYearsLocalTime(2);
+	//If warranty matches the year then add the number of years to date created
+	if (current.warranty.getDisplayValue() === "2 years");{
+		current.setValue("warranty_expiration_date", gdt.getValue());
+	}
+	
+
+	
+
+
+}) (current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 02:07:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>459b16e32fa20010972f57892799b68e</sys_id>
+        <sys_mod_count>41</sys_mod_count>
+        <sys_name>Warranty</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_update_name>sys_script_459b16e32fa20010972f57892799b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:37:21</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=459b16e32fa20010972f57892799b68e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</application>
+        <file_path/>
+        <instance_id>fdda72bbdbc4fb4049eac59705961957</instance_id>
+        <instance_name>dev74962</instance_name>
+        <name>sys_script_459b16e32fa20010972f57892799b68e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_359002_evans_ass_evans_assets&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Warranty&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+var gdt = new GlideDateTime();
+	//Adding 2yrs to the date asset was created
+	gdt.addYearsLocalTime(2);
+	//If warranty matches the year then add the number of years to date created
+	if (current.warranty.getDisplayValue() === "2 years");{
+		current.setValue("warranty_expiration_date", gdt.getValue());
+	}
+	
+
+	
+
+
+}) (current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-31 02:07:59&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;459b16e32fa20010972f57892799b68e&lt;/sys_id&gt;&lt;sys_mod_count&gt;41&lt;/sys_mod_count&gt;&lt;sys_name&gt;Warranty&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Evans Assets" source="x_359002_evans_ass"&gt;36ddc50e2f220010972f57892799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Evans Assets"&gt;36ddc50e2f220010972f57892799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_459b16e32fa20010972f57892799b68e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-31 18:37:21&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=459b16e32fa20010972f57892799b68e"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1410574870</payload_hash>
+        <record_name>Warranty</record_name>
+        <reverted_from/>
+        <source>bedd89ce2f220010972f57892799b610</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:37:21</sys_created_on>
+        <sys_id>80418abb2fae0010972f57892799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffce4a90e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:37:21</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>88418abba6ae0010b919d5debe2c1a0a</update_guid>
+        <update_guid_history>88418abba6ae0010b919d5debe2c1a0a:1410574870,69db5febcb6600108c7237ef0e96688d:436842480,b58b5febca660010e1b066192232bd97:-1277761147,55fa9beb2c660010fcbf1a03870eeb24:-423855251,ebba57eb9e660010c516e55e645d2362:-1137537268,436a13eb5d660010634807c43ff85a63:-423855251,194ad3abf76600102e7527881a9eeb5e:-547758066,d81adfab98660010101293aa0b576224:-682650419,ba3993abcb66001080ec528c08d16ef2:943488086,e1985f2b4a6600103cfed0912a4c4fda:1820263218,6808536b236600106c1965d28520735c:-65842461,2cc75f2be76600108c4275382bda1c60:840867625,ea161fa750660010c2d95bbcac65b23c:2076111208,f1951b27b46600105ee2fa3ec2f72e9e:1449067628,70e21b27396600101856106b58994824:1159995487,80621fa3c66600108d9c01fff10687e0:-356303873,42d013a3826600101d81dabbed5bd033:1159995487,e1901f23026600108a89ad6b38997339:1783270627,128e832355660010f0b38d1692301ca4:-650393598,31bd8fef56260010133d2d7cee73cd64:1697319158,bd8dcbeffc2600102f27568bc2166889:1683621216,dc5d47ef5d26001022570b1072bfd4d2:-703628709,3edc0baf72260010fabd9473a73a86c1:-178020709,893c432f9d260010a0aef92460ebd9cb:2073889811,80e54f2bac260010e718bcc83f7bfe7c:-2022510003,73b5cb2bcb260010f60e1fb810302440:-1469630198,9075872b5c2600102c25aed63c9cf642:-674580337,aa144fa7f4260010b972ac24290998b5:-298010707,a9138767d626001036fd571f5b9bc5aa:1554144428,d6728367c4260010015a6e6ccdb4b3df:-1958172025,af428b27c62600100580039b8c1b8e2f:1812583501,77a10fe36b26001038bf849879b931cf:-1080070720,b48043e3be26001038870e38b4e826c9:-987448135,cd4083a354260010a424928ceecc8660:-2004252689,98fe3e63f2260010e040dd4ee4e24f56:-987448135,a0aef663bd26001050671da1b7fe2385:533469784,21dd3e2362260010d4500363eac2c512:-88963795,049df623ee260010fa3098a74a1768ca:-1726648955,2a2d7223d4260010aec0eab38393279f:-1892606629,f20dfeef9ee20010d4c5c0d55fdd487b:-1840068644,d2de92a7ffa20010e8c43f15e0834983:659323750,1fce966726a20010c3568c287df13c35:-1729486152</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:57:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>a0a7f29d2baf46e89617bcc09f352a40</sys_id>
+        <sys_metadata>459b16e32fa20010972f57892799b68e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Warranty</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_parent display_value="Evans Assets">ac30d54e2f220010972f57892799b6ce</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>
+        <sys_update_name>sys_script_459b16e32fa20010972f57892799b68e</sys_update_name>
+        <sys_update_version display_value="sys_script_459b16e32fa20010972f57892799b68e">80418abb2fae0010972f57892799b60b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:57:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

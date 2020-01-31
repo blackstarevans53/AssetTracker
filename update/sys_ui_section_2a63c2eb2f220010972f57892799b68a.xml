@@ -4,13 +4,13 @@
             <element>warranty</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-31 00:16:21</sys_created_on>
-            <sys_id>88450a6f2f220010972f57892799b6d0</sys_id>
+            <sys_created_on>2020-01-31 18:45:34</sys_created_on>
+            <sys_id>a023027f2fae0010972f57892799b681</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Warranty" display_value="Warranty" name="x_359002_evans_ass_evans_assets" sys_domain="global" view="Default view">2a63c2eb2f220010972f57892799b68a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-31 00:16:21</sys_updated_on>
+            <sys_updated_on>2020-01-31 18:45:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-31 00:16:21</sys_created_on>
-            <sys_id>0c450a6f2f220010972f57892799b6d0</sys_id>
+            <sys_created_on>2020-01-31 18:45:34</sys_created_on>
+            <sys_id>2423027f2fae0010972f57892799b681</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Warranty" display_value="Warranty" name="x_359002_evans_ass_evans_assets" sys_domain="global" view="Default view">2a63c2eb2f220010972f57892799b68a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-31 00:16:21</sys_updated_on>
+            <sys_updated_on>2020-01-31 18:45:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>warranty_expiration_date</element>
+            <element>end_of_life</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-31 00:16:21</sys_created_on>
-            <sys_id>8c450a6f2f220010972f57892799b6d0</sys_id>
+            <sys_created_on>2020-01-31 18:45:34</sys_created_on>
+            <sys_id>a423027f2fae0010972f57892799b681</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Warranty" display_value="Warranty" name="x_359002_evans_ass_evans_assets" sys_domain="global" view="Default view">2a63c2eb2f220010972f57892799b68a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-31 00:16:21</sys_updated_on>
+            <sys_updated_on>2020-01-31 18:45:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

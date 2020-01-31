@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>activity.xml</formatter>
+        <name>Custom Apps Avtivity</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 00:52:09</sys_created_on>
+        <sys_id>315d82a72f620010972f57892799b61e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Custom Apps Avtivity</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_update_name>sys_ui_formatter_315d82a72f620010972f57892799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 00:54:47</sys_updated_on>
+        <table>x_359002_evans_ass_evans_assets</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</application>
+        <file_path/>
+        <instance_id>fdda72bbdbc4fb4049eac59705961957</instance_id>
+        <instance_name>dev74962</instance_name>
+        <name>sys_ui_formatter_315d82a72f620010972f57892799b61e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>activity.xml</formatter><name>Custom Apps Avtivity</name><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 00:52:09</sys_created_on><sys_id>315d82a72f620010972f57892799b61e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Custom Apps Avtivity</sys_name><sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package><sys_policy/><sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope><sys_update_name>sys_ui_formatter_315d82a72f620010972f57892799b61e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 00:54:47</sys_updated_on><table>x_359002_evans_ass_evans_assets</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>-634073402</payload_hash>
+        <record_name>Custom Apps Avtivity</record_name>
+        <reverted_from/>
+        <source>bedd89ce2f220010972f57892799b610</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 00:54:47</sys_created_on>
+        <sys_id>c30e06a72f620010972f57892799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ff917d9fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 00:54:47</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>4f0e06a7bf620010dab02ad4ca4c41f8</update_guid>
+        <update_guid_history>4f0e06a7bf620010dab02ad4ca4c41f8:-634073402,607dca67d962001031f53b7db4980fa5:-2134084144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 01:00:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>13b8a654260049e09c66c25f894f5c40</sys_id>
+        <sys_metadata>315d82a72f620010972f57892799b61e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Apps Avtivity</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_parent display_value="Evans Assets">ac30d54e2f220010972f57892799b6ce</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_315d82a72f620010972f57892799b61e</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_315d82a72f620010972f57892799b61e">c30e06a72f620010972f57892799b6f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 01:00:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Evans Asset Model</name>
+        <order/>
+        <roles>x_359002_evans_ass.evans_asset_model_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:55:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5658aff2fae0010972f57892799b6b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Evans Asset Model</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_update_name>sys_ui_application_e5658aff2fae0010972f57892799b6b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:55:29</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</application>
+        <file_path/>
+        <instance_id>fdda72bbdbc4fb4049eac59705961957</instance_id>
+        <instance_name>dev74962</instance_name>
+        <name>sys_ui_application_e5658aff2fae0010972f57892799b6b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Evans Asset Model</name><order/><roles>x_359002_evans_ass.evans_asset_model_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 18:55:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e5658aff2fae0010972f57892799b6b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Evans Asset Model</sys_name><sys_overrides/><sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package><sys_policy/><sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope><sys_update_name>sys_ui_application_e5658aff2fae0010972f57892799b6b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 18:55:29</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>1092198855</payload_hash>
+        <record_name>Evans Asset Model</record_name>
+        <reverted_from/>
+        <source>bedd89ce2f220010972f57892799b610</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:55:29</sys_created_on>
+        <sys_id>69658aff2fae0010972f57892799b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffcf5418f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:55:29</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>a1658aff2dae0010c63e7a99714e82b7</update_guid>
+        <update_guid_history>a1658aff2dae0010c63e7a99714e82b7:1092198855</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:57:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>08daec12d4ec493088fb49f6bcc8c904</sys_id>
+        <sys_metadata>e5658aff2fae0010972f57892799b6b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Evans Asset Model</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_e5658aff2fae0010972f57892799b6b5</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_e5658aff2fae0010972f57892799b6b5">69658aff2fae0010972f57892799b6b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:57:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
