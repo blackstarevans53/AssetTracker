@@ -122,7 +122,7 @@ current.setValue("warranty_expiration_date", gdt.getValue());&amp;#13;
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Warranty Expiration Date </sys_name>
         <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
-        <sys_parent display_value="Evans Assets">ac30d54e2f220010972f57892799b6ce</sys_parent>
+        <sys_parent display_value="">ac30d54e2f220010972f57892799b6ce</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
         <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>

@@ -42,7 +42,7 @@
         <update_guid_history>a9658aff16ae0010ea0ffeeb911f95d9:-1924538077</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_359002_evans_ass_evans_asset_model.x_359002_evans_ass.evans_asset_model_user">cca5ceff2fae0010972f57892799b6ba</sys_audit_delete>
+        <sys_audit_delete display_value="">cca5ceff2fae0010972f57892799b6ba</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-31 18:56:27</sys_created_on>

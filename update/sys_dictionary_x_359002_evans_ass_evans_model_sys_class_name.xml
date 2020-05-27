@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-31 19:09:43</sys_created_on>
-        <sys_id>86a84af32fee0010972f57892799b6d8</sys_id>
+        <sys_id>7e8041d92f051010f1b83f96f699b63d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Class</sys_name>
         <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
         <sys_update_name>sys_dictionary_x_359002_evans_ass_evans_model_sys_class_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-31 19:09:43</sys_updated_on>
+        <sys_updated_on>2020-05-27 02:06:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

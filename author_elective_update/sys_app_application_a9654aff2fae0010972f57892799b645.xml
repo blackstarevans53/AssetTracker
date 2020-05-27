@@ -52,7 +52,7 @@
         <update_guid_history>ad658aff3dae001084cf18391ad9b6b0:648207107</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Evans Asset Model">1bb5c2332fee0010972f57892799b6a0</sys_audit_delete>
+        <sys_audit_delete display_value="">1bb5c2332fee0010972f57892799b6a0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-31 18:56:57</sys_created_on>

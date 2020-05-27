@@ -66,7 +66,7 @@
         <update_guid_history>d25f41422a620010dc8e9fa251483e5b:747212090</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Evans Assets">76209d422f620010972f57892799b6c4</sys_audit_delete>
+        <sys_audit_delete display_value="">76209d422f620010972f57892799b6c4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-26 04:33:32</sys_created_on>

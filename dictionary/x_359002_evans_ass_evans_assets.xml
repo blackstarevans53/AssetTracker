@@ -13,20 +13,5 @@
                 <element inactive_on_update="false" label="4 years" sequence="200" value="4"/>
             </choice>
         </element>
-        <index name="index">
-            <element name="hardware_type"/>
-        </index>
-        <index name="index2">
-            <element name="model"/>
-        </index>
-        <index name="index3">
-            <element name="sys_class_name"/>
-        </index>
-        <index name="index4">
-            <element name="assigned_to"/>
-        </index>
-        <index name="index5">
-            <element name="manufacturer"/>
-        </index>
     </element>
 </database>
