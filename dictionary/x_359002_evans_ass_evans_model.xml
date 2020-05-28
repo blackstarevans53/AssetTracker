@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Evans Model" max_length="40" name="x_359002_evans_ass_evans_model" sizeclass="0" type="collection">
+    <element label="Evans Model" max_length="40" name="x_359002_evans_ass_evans_model" type="collection">
         <element label="Hard Drive Size" max_length="40" name="hard_drive_size" type="string"/>
         <element label="Model Name" mandatory="true" max_length="40" name="model" type="string"/>
         <element label="Ram Size" max_length="40" name="ram_size" type="string"/>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Evans Assets">d65fcd022f620010972f57892799b67c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title/>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_359002_evans_ass_evans_assets</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 15:04:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca2c30392f095010f1b83f96f699b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_359002_evans_ass_evans_assets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_update_name>sys_app_module_ca2c30392f095010f1b83f96f699b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 15:04:54</sys_updated_on>
+        <timeline_page/>
+        <title/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</application>
+        <file_path/>
+        <instance_id>a280b50ddb5b0cd48aea21c40596192f</instance_id>
+        <instance_name>dev101679</instance_name>
+        <name>sys_app_module_ca2c30392f095010f1b83f96f699b666</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Evans Assets">d65fcd022f620010972f57892799b67c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title/><mobile_view_name>Mobile</mobile_view_name><name>x_359002_evans_ass_evans_assets</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-28 15:04:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ca2c30392f095010f1b83f96f699b666</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_359002_evans_ass_evans_assets</sys_name><sys_overrides/><sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package><sys_policy/><sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope><sys_update_name>sys_app_module_ca2c30392f095010f1b83f96f699b666</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-28 15:04:54</sys_updated_on><timeline_page/><title/><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2119122951</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8b993c752f095010f1b83f96f699b64c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 15:04:54</sys_created_on>
+        <sys_id>e63c3cf52f095010f1b83f96f699b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725bd0912e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 15:04:54</sys_updated_on>
+        <type>Module</type>
+        <update_guid>223c3cf504095010dee9310a551e1b0d</update_guid>
+        <update_guid_history>223c3cf504095010dee9310a551e1b0d:2119122951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">565c34392f095010f1b83f96f699b6d5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 15:05:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0a5d6c194b664ce096e440021dce7100</sys_id>
+        <sys_metadata>ca2c30392f095010f1b83f96f699b666</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_359002_evans_ass_evans_assets</sys_name>
+        <sys_package display_value="Evans Assets" source="x_359002_evans_ass">36ddc50e2f220010972f57892799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Evans Assets">36ddc50e2f220010972f57892799b6f7</sys_scope>
+        <sys_scope_delete display_value="">0230234149cd485882025928085782e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_ca2c30392f095010f1b83f96f699b666</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ca2c30392f095010f1b83f96f699b666">e63c3cf52f095010f1b83f96f699b60d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 15:05:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
